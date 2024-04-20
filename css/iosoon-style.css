@@ -1154,7 +1154,7 @@ html, body {
 }
 
 .form-content .time-counter .count .num {
-    font-size: 36px;
+    font-size: 20px;
     font-weight: 100;
     color: #fff;
 }
@@ -2166,6 +2166,7 @@ html, body {
     }
 
     .form-body.without-side .website-logo .logo {
+        background-image: url("../images/logo_white.png");
         background-image: url("../images/logo_white.png");
     }
 
